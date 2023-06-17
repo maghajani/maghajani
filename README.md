@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @maghajani
 - 👀 I’m interested in Software Development
+<!---
 - 💞️ I’m looking to collaborate on open source projects
+--->
 - 📫 Reach me github-username at gmail
 
 <!---
